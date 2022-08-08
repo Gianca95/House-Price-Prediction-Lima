@@ -1,4 +1,4 @@
-# House-Price-Prediction-Lima
+# House Price Prediction Lima
 
 ![image](https://user-images.githubusercontent.com/61705328/156657912-f07bd172-b959-4280-a802-89870c183324.png)
 
